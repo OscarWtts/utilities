@@ -1,0 +1,25 @@
+{
+  "name": "utilities",
+  "version": "1.0.0",
+  "description": "Backend con estructura base y funciones de ayuda",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/OscarWtts/utilities.git",
+  "keywords": [],
+  "author": "Francisco Monterroso <sistemasooliva@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarWtts/utilities/issues"
+  },
+  "homepage": "https://github.com/OscarWtts/utilities#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.8"
+  }
+}
